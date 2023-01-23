@@ -1,0 +1,34 @@
+*{
+margin:0;
+padding:0;
+}
+
+body 
+{
+font-family:Arial, Helvetica, sans-serif;
+height:100%;
+}
+
+button
+{
+border: 1.5px solid #b1b3b1;
+border-radius: 3px;
+background: rgb(300,300,300,300);
+color:#0a0a0a;
+}
+
+#Sox
+{
+font-size: 18px;
+}
+
+#Dob:hover
+{
+border: #333333 2px solid;
+}
+
+#S:hover
+{
+border: #333333 2px solid;
+}
+
